@@ -18,3 +18,12 @@ deepface/detectors/__pycache__/*
 tests/dataset/*.pkl
 .DS_Store
 deepface/.DS_Store
+
+api/
+deepface/
+icon/
+LICENSE
+README.md
+requirements.txt
+setup.py
+tests/
